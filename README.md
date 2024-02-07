@@ -1,0 +1,1 @@
+Welcome to the repository for my Power BI project! This project aims to provide insights and visualizations using data analysis techniques through Power BI. Whether you're a developer, data analyst, or business stakeholder, this project offers valuable insights into the data provided
